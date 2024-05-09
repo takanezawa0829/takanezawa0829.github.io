@@ -12,7 +12,7 @@ section:
 # Give a summary of you each skill in the summary section.
 skills:
 # - name: Sample
-#   logo: /images/sections/skills/ROS.png
+#   logo: /images/sections/skills/ros.png
 #   summary: "text"
 
 - name: Docker
@@ -25,7 +25,7 @@ skills:
   summary: "Linuxは, オペレーティングシステム（OS）の一種であり, Unix系のOSの一つです. メインの開発環境としてはUbuntuのLTSバージョンを利用しています. ROSや深層学習やマイクラサーバなどは全てLinux内で実行しています."
 
 - name: ROS/ROS2
-  logo: /images/sections/skills/ROS.png
+  logo: /images/sections/skills/ros.png
   summary: "ROS（Robot Operating System）は, ロボットの開発を支援するオープンソースのフレームワークで分散処理やメッセージ通信などの機能があります. 近年ではロボットだけでなくドローンや自動車などにも利用されています. 実際に３本指工業用ロボットアームの研究で利用しています."
 
 - name: Autodesk Inventor
@@ -35,6 +35,10 @@ skills:
 - name: Autodesk Fusion 360
   logo: /images/sections/skills/autodesk-fusion-360.png
   summary: "Autodesk社が開発しているクラウドベースのCAD/CAM/CAEソフトウェアです. 蜘蛛型ロボットなどの機体設計, CNCや3Dプリンタを利用するためのG-Code作成に利用しています."
+
+- name: MATLAB
+  logo: /images/sections/skills/matlab.png
+  summary: "MATLABは数値解析, データ可視化, アルゴリズム開発などを行うための言語, 開発環境です. 主に研究でのアルゴリズム作成などに利用しています."
 
 - name: Git
   logo: /images/sections/skills/git.png
