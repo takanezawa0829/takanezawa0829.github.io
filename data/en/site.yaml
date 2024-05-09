@@ -9,8 +9,8 @@ copyright: © 2024 Copyright.
 # Meta description for your site.  This will help the search engines to find your site.
 description: Portfolio and personal blog of TakumuTakanezawa.
 
-# specify the list of custom menus that you want to show in the top navbar.
-# they will be separated by a divider from the main menus.
+# # specify the list of custom menus that you want to show in the top navbar.
+# # they will be separated by a divider from the main menus.
 # customMenus:
 # - name: Docs
 #   url: https://toha-guides.netlify.app/posts/
@@ -26,7 +26,7 @@ openGraph:
   type: website
   description: 高根沢拓夢のポートフォリオ
   image: images/author/portrait.jpeg
-  url: https://takane-blog.github.io
+  url: https://takanezawa0829.github.io
 
 # specify the title appearing on the navbar.
 navBarTitle: "Takane's Site"

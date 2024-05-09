@@ -26,7 +26,7 @@ openGraph:
   type: website
   description: 高根沢拓夢のポートフォリオ
   image: images/author/portrait.jpeg
-  url: https://takane-blog.github.io
+  url: https://takanezawa0829.github.io
 
 # specify the title appearing on the navbar.
 navBarTitle: "Takane's Site"

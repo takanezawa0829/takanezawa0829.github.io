@@ -1,4 +1,4 @@
-module github.com/takanezawa0829/takane-blog.github.io
+module github.com/takanezawa0829/takanezawa0829.github.io
 
 go 1.19
 
