@@ -11,6 +11,10 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
+# - name: Sample
+#   logo: /images/sections/skills/ROS.png
+#   summary: "text"
+
 - name: Docker
   logo: /images/sections/skills/docker.svg
   summary: "Dockerは, コンテナベースの仮想化ツールです. 実行環境をテキストベースで記述することができるためプログラミングが苦手な人でも簡単に環境を構築できるという特徴があります. この特性を活かし研究プロジェクトでもDockerを利用して実行環境を構築し, 後輩に研究内容を引き継ぐことができました."
@@ -18,11 +22,19 @@ skills:
 
 - name: Linux
   logo: /images/sections/skills/linux.png
-  summary: "Linuxは、オペレーティングシステム（OS）の一種であり、Unix系のOSの一つです. メインの開発環境としてはUbuntuのLTSバージョンを利用しています. ROSや深層学習やマイクラサーバなどは全てLinux内で実行しています."
+  summary: "Linuxは, オペレーティングシステム（OS）の一種であり, Unix系のOSの一つです. メインの開発環境としてはUbuntuのLTSバージョンを利用しています. ROSや深層学習やマイクラサーバなどは全てLinux内で実行しています."
 
 - name: ROS/ROS2
   logo: /images/sections/skills/ROS.png
-  summary: "ROS（Robot Operating System）は、ロボットの開発を支援するオープンソースのフレームワークで分散処理やメッセージ通信などの機能があります. 近年ではロボットだけでなくドローンや自動車などにも利用されています. 実際に３本指工業用ロボットアームの研究で利用しています."
+  summary: "ROS（Robot Operating System）は, ロボットの開発を支援するオープンソースのフレームワークで分散処理やメッセージ通信などの機能があります. 近年ではロボットだけでなくドローンや自動車などにも利用されています. 実際に３本指工業用ロボットアームの研究で利用しています."
+
+- name: Autodesk Inventor
+  logo: /images/sections/skills/autodesk-inventor.png
+  summary: "Autodesk社が開発している製造業向けの3D CADです. 機体設計, 図面の作成などに利用しています."
+
+- name: Autodesk Fusion 360
+  logo: /images/sections/skills/autodesk-fusion-360.png
+  summary: "Autodesk社が開発しているクラウドベースのCAD/CAM/CAEソフトウェアです. 蜘蛛型ロボットなどの機体設計, CNCや3Dプリンタを利用するためのG-Code作成に利用しています."
 
 - name: Git
   logo: /images/sections/skills/git.png
@@ -30,10 +42,10 @@ skills:
   # summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
   url: "https://git-scm.com/"
 
-- name: C++
+- name: C/C++
   logo: /images/sections/skills/c++.png
-  summary: "ROSでロボットの運動学、逆運動学を計算するために利用しています. 他にも物理シミュレータの操作プログラム、電子工作教室キット、サーボモータの自作ドライバの作成のためにも利用しています."
+  summary: "機体間の通信プログラムやC言語にしか用意されていない数学ライブラリを活用するために利用しています. 他にも物理シミュレータの操作プログラム、電子工作教室キット、サーボモータの自作ドライバの作成のためにも利用しています."
 
 - name: Python
   logo: /images/sections/skills/python.png
-  summary: "ROSでの通信プログラム, 研究でのアルゴリズムプログラムに使用しています. C++と同様にサーボモータの自作ドライバなどにも利用しています."
+  summary: "研究でのアルゴリズムやロボットの運動学、逆運動学を計算するために使用しています. C++と同様にサーボモータの自作ドライバなどにも利用しています."
