@@ -94,9 +94,9 @@ params:
       shareButtons:
         facebook: true
         twitter: true
-        linkedin: true
-        reddit: true
-        whatsapp: true
+        # linkedin: true
+        # reddit: true
+        # whatsapp: true
         email: true
         # tumblr: true
         # pocket: true
