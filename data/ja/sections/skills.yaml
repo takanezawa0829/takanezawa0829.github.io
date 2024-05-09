@@ -53,3 +53,15 @@ skills:
 - name: Python
   logo: /images/sections/skills/python.png
   summary: "研究でのアルゴリズムやロボットの運動学、逆運動学を計算するために使用しています. C++と同様にサーボモータの自作ドライバなどにも利用しています."
+
+- name: HTML/CSS
+  logo: /images/sections/skills/html.png
+  summary: "HTMLは, ウェブページを作成するためのマークアップ言語です. 基本的なWebページであれば作成することができます. 当サイトもHugoというフレームワークを使用してHTML/CSSで作成しています."
+
+- name: PHP
+  logo: /images/sections/skills/php.png
+  summary: "PHPは主にウェブ開発に使用されるサーバーサイドのスクリプト言語です. 実際のWeb開発ではLaravelやSlimフレームワークを扱っていました."
+
+- name: TypeScript
+  logo: /images/sections/skills/typescript.png
+  summary: "TypeScriptはMicrosoftによって開発されたオープンソースのプログラミング言語です. JavaScriptと比べて効率的に記述することができます. 主にAngular, Vue.js, Reactを扱っていました."
