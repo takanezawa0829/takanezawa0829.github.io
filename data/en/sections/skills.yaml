@@ -11,6 +11,10 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
+# - name: Sample
+#   logo: /images/sections/skills/ros.png
+#   summary: "text"
+
 - name: Docker
   logo: /images/sections/skills/docker.svg
   summary: "Dockerは, コンテナベースの仮想化ツールです. 実行環境をテキストベースで記述することができるためプログラミングが苦手な人でも簡単に環境を構築できるという特徴があります. この特性を活かし研究プロジェクトでもDockerを利用して実行環境を構築し, 後輩に研究内容を引き継ぐことができました."
@@ -18,11 +22,23 @@ skills:
 
 - name: Linux
   logo: /images/sections/skills/linux.png
-  summary: "Linuxは、オペレーティングシステム（OS）の一種であり、Unix系のOSの一つです. メインの開発環境としてはUbuntuのLTSバージョンを利用しています. ROSや深層学習やマイクラサーバなどは全てLinux内で実行しています."
+  summary: "Linuxは, オペレーティングシステム（OS）の一種であり, Unix系のOSの一つです. メインの開発環境としてはUbuntuのLTSバージョンを利用しています. ROSや深層学習やマイクラサーバなどは全てLinux内で実行しています."
 
 - name: ROS/ROS2
-  logo: /images/sections/skills/ROS.png
-  summary: "ROS（Robot Operating System）は、ロボットの開発を支援するオープンソースのフレームワークで分散処理やメッセージ通信などの機能があります. 近年ではロボットだけでなくドローンや自動車などにも利用されています. 実際に３本指工業用ロボットアームの研究で利用しています."
+  logo: /images/sections/skills/ros.png
+  summary: "ROS（Robot Operating System）は, ロボットの開発を支援するオープンソースのフレームワークで分散処理やメッセージ通信などの機能があります. 近年ではロボットだけでなくドローンや自動車などにも利用されています. 実際に３本指工業用ロボットアームの研究で利用しています."
+
+- name: Autodesk Inventor
+  logo: /images/sections/skills/autodesk-inventor.png
+  summary: "Autodesk社が開発している製造業向けの3D CADです. 機体設計, 図面の作成などに利用しています."
+
+- name: Autodesk Fusion 360
+  logo: /images/sections/skills/autodesk-fusion-360.png
+  summary: "Autodesk社が開発しているクラウドベースのCAD/CAM/CAEソフトウェアです. 蜘蛛型ロボットなどの機体設計, CNCや3Dプリンタを利用するためのG-Code作成に利用しています."
+
+- name: MATLAB
+  logo: /images/sections/skills/matlab.png
+  summary: "MATLABは数値解析, データ可視化, アルゴリズム開発などを行うための言語, 開発環境です. 主に研究でのアルゴリズム作成などに利用しています."
 
 - name: Git
   logo: /images/sections/skills/git.png
@@ -30,10 +46,22 @@ skills:
   # summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
   url: "https://git-scm.com/"
 
-- name: C++
+- name: C/C++
   logo: /images/sections/skills/c++.png
-  summary: "ROSでロボットの運動学、逆運動学を計算するために利用しています. 他にも物理シミュレータの操作プログラム、電子工作教室キット、サーボモータの自作ドライバの作成のためにも利用しています."
+  summary: "機体間の通信プログラムやC言語にしか用意されていない数学ライブラリを活用するために利用しています. 他にも物理シミュレータの操作プログラム、電子工作教室キット、サーボモータの自作ドライバの作成のためにも利用しています."
 
 - name: Python
   logo: /images/sections/skills/python.png
-  summary: "ROSでの通信プログラム, 研究でのアルゴリズムプログラムに使用しています. C++と同様にサーボモータの自作ドライバなどにも利用しています."
+  summary: "研究でのアルゴリズムやロボットの運動学、逆運動学を計算するために使用しています. C++と同様にサーボモータの自作ドライバなどにも利用しています."
+
+- name: HTML/CSS
+  logo: /images/sections/skills/html.png
+  summary: "HTMLは, ウェブページを作成するためのマークアップ言語です. 基本的なWebページであれば作成することができます. 当サイトもHugoというフレームワークを使用してHTML/CSSで作成しています."
+
+- name: PHP
+  logo: /images/sections/skills/php.png
+  summary: "PHPは主にウェブ開発に使用されるサーバーサイドのスクリプト言語です. 実際のWeb開発ではLaravelやSlimフレームワークを扱っていました."
+
+- name: TypeScript
+  logo: /images/sections/skills/typescript.png
+  summary: "TypeScriptはMicrosoftによって開発されたオープンソースのプログラミング言語です. JavaScriptと比べて効率的に記述することができます. 主にAngular, Vue.js, Reactを扱っていました."
