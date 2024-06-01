@@ -14,9 +14,9 @@ NFCタグを使用してなにか作れないか考えたことがきっかけ�
 
 Webサイトへの誘導以外にも連絡先の共有や各種操作の自動化などが行えるので活用の幅は大きいかもしれません。  
 
-{{< youtube tKriWcbwLPk >}}  
+{{< youtube tKriWcbwLPk >}}　　
 
-{{< figure src="hero.jpg" title="NFCタグ" >}}  
+{{< figure src="hero.jpg" title="NFCタグ" >}}　　
 
 <!-- 画像表示 -->
 <!-- {{< figure src="/images/author/portrait.jpeg" title="Steve Francia" >}} -->
