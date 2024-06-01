@@ -9,4 +9,7 @@ LEDバーサライタの光の軌跡 工夫点はお客様が自ら模様をデ�
 開発言語はPython、ミドルウェアとしてROSを使用しています。
 蜘蛛型ロボット</description></item><item><title>ボタン式電子オセロ</title><link>https://takanezawa0829.github.io/ja/posts/othello/</link><pubDate>Fri, 09 Dec 2022 15:07:54 +0900</pubDate><guid>https://takanezawa0829.github.io/ja/posts/othello/</guid><description>作品紹介 電気研究部で電子工作教室を開催した際に展示した電子オセロです。
 縦横のボタンで配置する箇所を指定して真ん中のボタンを押すことで配置することができます。
-マイコンのメモリの範囲内でオセロプログラムを作成する必要があり、マイコンの様々な機能を知ることができたので良い経験になりました。</description></item></channel></rss>
+マイコンのメモリの範囲内でオセロプログラムを作成する必要があり、マイコンの様々な機能を知ることができたので良い経験になりました。</description></item><item><title>電子名刺</title><link>https://takanezawa0829.github.io/ja/posts/electronic-business-card/</link><pubDate>Tue, 01 Mar 2022 15:07:54 +0900</pubDate><guid>https://takanezawa0829.github.io/ja/posts/electronic-business-card/</guid><description>作品紹介 スマホにかざすと当サイトにつながる電子名刺です。
+NFCタグを使用してなにか作れないか考えたことがきっかけで作成することにしました。
+Webサイトへの誘導以外にも連絡先の共有や各種操作の自動化などが行えるので活用の幅は大きいかもしれません。
+NFCタグ</description></item></channel></rss>
