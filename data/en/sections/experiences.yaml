@@ -11,14 +11,14 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: 株式会社ロフタル
+    name: Loftal Corporation
     url: "https://loftal.jp/"
-    location: 東京都渋谷区
+    location: Shibuya Ward, Tokyo, Japan
     logo: /images/sections/experiences/loftal.png
     # Can optionally show a different logo for dark theme
     # darklogo: /images/sections/experiences/company1.jpg
     # company overview
-    overview: 株式会社ロフタルではクラウドデータベースや研究室向けCMSサービスの提供などを行っています.
+    overview: At Loftal Corporation, we provide services such as cloud database solutions and CMS services tailored for research laboratories.
   positions:
   - designation: Software Engineer (Part-time job)
     start: Aug 2020
@@ -26,8 +26,8 @@ experiences:
     end: Oct 2023
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - クラウドデータベースの機能開発（数値演算機能, 画像処理機能, カレンダー機能等）
-    - 聴覚、歩行障害者を対象とした移動補助アプリ開発
+    - Development of cloud database functionalities including numerical computation, image processing, calendar integration, etc.
+    - Development of a mobility assistance app targeting individuals with auditory and mobility impairments.
 
 # - company:
 #     name: Example Co.

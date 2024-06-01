@@ -14,7 +14,7 @@ degrees:
   icon: fa-microscope
   timeframe: 2024-2026
   institution:
-    name: 千葉工業大学院
+    name: Chiba Institute of Technology Graduate School
     url: "https://www.it-chiba.ac.jp/"
     logo: /images/sections/education/cit.png
     # Can optionally show a different logo for dark theme
@@ -34,7 +34,7 @@ degrees:
   icon: fa-graduation-cap
   timeframe: 2020-2024
   institution:
-    name: 千葉工業大学
+    name: Chiba Institute of Technology
     url: "https://www.it-chiba.ac.jp/"
     logo: /images/sections/education/cit.png
     # Can optionally show a different logo for dark theme
@@ -79,7 +79,7 @@ degrees:
   icon: fa-university
   timeframe: 2016-2020
   institution:
-    name: 千葉県立船橋啓明高等学校
+    name: Chiba Prefectural Funabashi Keimei High School
     url: "https://cms1.chiba-c.ed.jp/f.keimei-h/"
     logo: /images/sections/education/high_school.png
     # Can optionally show a different logo for dark theme
