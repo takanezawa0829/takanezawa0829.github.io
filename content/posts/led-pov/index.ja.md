@@ -1,6 +1,6 @@
 ---
 title: "LEDバーサライタ"
-date: 2022-12-09T15:07:54+09:00
+date: 2024-06-01T15:07:54+09:00
 description: 電子工作教室 振ると模様が浮き出る光るおもちゃ
 author:
   name: TakumuTakanezawa
